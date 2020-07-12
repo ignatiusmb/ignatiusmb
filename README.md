@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+Take a look at my website [mauss.dev](https://mauss.dev), it's open-source too come check it out!
 
 <!--
 **ignatiusmb/ignatiusmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
