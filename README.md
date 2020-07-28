@@ -1,6 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Ignatius here</h1>
+<h3 align="center">Check out my website by clicking this banner</h3>
 
-Take a look at my website [mauss.dev](https://mauss.dev), it's open-source too come check it out!
+<h4 align="center">
+  <a href="https://mauss.dev">
+    <img src="banner.svg" alt="Mauss Banner">
+  </a>
+</h4>
+
+---
+
+<h3 align="center">
+  <pre><a href="https://mauss.dev">Developed by Mauss</a></pre>
+</h3>
+
+---
+
+<h4 align="center">Contact me through</h4>
+<h3 align="center">
+  <a href="mailto:ignatius.mbs@gmail.com?subject=Hello from GitHub README" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/mail.svg" alt="ignatiusmb" height="24" width="24" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/devmauss" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/twitter.svg" alt="ignatiusmb" height="24" width="24" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ignatiusmb" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/linkedin.svg" alt="ignatiusmb" height="24" width="24" />
+  </a>
+</h3>
 
 <!--
 **ignatiusmb/ignatiusmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
