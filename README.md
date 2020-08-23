@@ -1,14 +1,15 @@
-<h1 align="center">Hey 👋, Ignatius here</h1>
-
 <h3 align="center">
-  <pre><a href="https://mauss.dev">Developed by Mauss</a></pre>
+  <pre><a href="https://mauss.dev">Developed by DevMauss</a></pre>
 </h3>
 
----
+## About me
 
-<h4 align="center">Contact me through</h4>
+Hey 👋, I try to keep everything about me centralized in my website at [DevMauss](https://mauss.dev), please refer there for more information to minimize any possible disparity in my information and identity. I do not have any accounts other than those mentioned here or in my website.
+
 <h3 align="center">
   <a href="mailto:ignatius.mbs@gmail.com?subject=Hello from GitHub README" target="blank"><img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/mail.svg" alt="ignatiusmb" height="24" width="24" /></a>
+  &ensp;
+  <a href="https://keybase.io/mauss" target="blank"><img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/key.svg" alt="ignatiusmb" height="24" width="24" /></a>
   &ensp;
   <a href="https://twitter.com/devmauss" target="blank"><img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/twitter.svg" alt="ignatiusmb" height="24" width="24" /></a>
   &ensp;
