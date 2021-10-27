@@ -1,20 +1,14 @@
-<h3 align="center">
-  <pre><a href="https://mauss.dev">Developed by DevMauss</a></pre>
-</h3>
+<h1 align="center">
+  Hello, <a href="https://mauss.dev">ignatiusmb</a> here!
+</h1>
 
-## About me
-
-Hey 👋, I try to keep everything about me centralized in my website at [DevMauss](https://mauss.dev), please refer there for more information to minimize any possible disparity in my information and identity. I do not have any accounts other than those mentioned here or in my website.
-
-<h3 align="center">
-  <a href="mailto:ignatius.mbs@gmail.com?subject=Hello from GitHub README" target="blank"><img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/mail.svg" alt="ignatiusmb" height="24" width="24" /></a>
-  &ensp;
-  <a href="https://keybase.io/mauss" target="blank"><img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/key.svg" alt="ignatiusmb" height="24" width="24" /></a>
-  &ensp;
-  <a href="https://twitter.com/devmauss" target="blank"><img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/twitter.svg" alt="ignatiusmb" height="24" width="24" /></a>
-  &ensp;
-  <a href="https://linkedin.com/in/ignatiusmb" target="blank"><img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/linkedin.svg" alt="ignatiusmb" height="24" width="24" /></a>
-</h3>
+<p align="center">
+  <a href="mailto:atom@mauss.dev" target="blank">Mail Me</a>
+  &ensp;&vert;&ensp;
+  <a href="https://mauss.dev/chat" target="blank">Discord</a>
+  &ensp;&vert;&ensp;
+  <a href="https://keybase.io/mauss" target="blank">Keybase</a>
+</p>
 
 <!--
 **ignatiusmb/ignatiusmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
