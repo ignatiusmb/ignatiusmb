@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:atom@mauss.dev" target="blank">Mail Me</a>
-  &ensp;&vert;&ensp;
   <a href="https://mauss.dev/chat" target="blank">Discord</a>
   &ensp;&vert;&ensp;
   <a href="https://keybase.io/mauss" target="blank">Keybase</a>
