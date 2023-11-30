@@ -1,11 +1,15 @@
-<h1 align="center">
-  Hello, <a href="https://mauss.dev">ignatiusmb</a> here!
-</h1>
-
 <p align="center">
-  <a href="https://mauss.dev/chat" target="blank">Discord</a>
-  &ensp;&vert;&ensp;
-  <a href="https://keybase.io/mauss" target="blank">Keybase</a>
+  &Larr;&ensp;&ensp;
+  <a href="https://mauss.dev">Website</a>
+  &ensp;&middot;&ensp;
+  <a href="https://mauss.dev/posts">Blog</a>
+  &ensp;&middot;&ensp;
+  <a href="https://mauss.dev/contact">Contact</a>
+  &ensp;&middot;&ensp;
+  <a href="https://mauss.dev/uses">Uses</a>
+  &ensp;&middot;&ensp;
+  <a href="https://mauss.dev/rss.xml">Feed</a>
+  &ensp;&ensp;&Rarr;
 </p>
 
 <!--
