@@ -4,8 +4,6 @@
   &ensp;&middot;&ensp;
   <a href="https://mauss.dev/posts">Blog</a>
   &ensp;&middot;&ensp;
-  <a href="https://mauss.dev/contact">Contact</a>
-  &ensp;&middot;&ensp;
   <a href="https://mauss.dev/uses">Uses</a>
   &ensp;&middot;&ensp;
   <a href="https://mauss.dev/rss.xml">Feed</a>
