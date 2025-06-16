@@ -3,6 +3,8 @@
     &Larr;&ensp;
     <a href="https://mauss.dev">home</a>
     &middot;
+    <a href="https://mauss.dev/atelier">craft</a>
+    &middot;
     <a href="https://mauss.dev/posts">blog</a>
     &middot;
     <a href="https://mauss.dev/uses">uses</a>
