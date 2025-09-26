@@ -7,7 +7,7 @@
     &middot;
     <a href="https://mauss.dev/atelier">craft</a>
     &middot;
-    <a href="https://mauss.dev/help">explore</a>
+    <a href="https://mauss.dev/help">harbor</a>
     &middot;
     <a href="https://mauss.dev/rss.xml">feed</a>
     &ensp;&raquo;
